@@ -22,9 +22,9 @@ N'hésitez pas à explorer mes projets et à me contacter si vous avez des quest
 
 Merci d'être passé(e) sur mon profil ! 👍
 
-### Hello everyone! 👋
+##
 
-## About Me
+### About Me
 
 I'm Jonathan, a web developer with a deep passion for crafting custom websites. Welcome to my GitHub profile! Let me share a bit about what I do and what drives my interests:
 
